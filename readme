@@ -1,0 +1,57 @@
+# Final Project – TIC (Information and Communication Technologies)
+
+## Project Description
+This project was developed as part of the TIC course.  
+It focuses on Information and Communication Technologies and related tools, including:
+- Google Services
+- Microsoft Tools
+- Git and GitHub
+- Other modern ICT technologies
+
+The project includes multiple deliverables prepared using different tools and formats, following academic and technical requirements.
+
+---
+
+## Group Members
+- **Zohair Benmakhloufi**  
+- **Anes Djemai**  
+- **Nadir Nouiri**  
+- **Amine Djillali Bensalem**  
+
+---
+
+## Project Structure and Contents
+
+### Exercise 1: Word Report
+- A detailed report on TIC and related technologies
+- Includes:
+  - Front page
+  - Table of contents
+  - At least 8 pages
+  - Tables and images
+
+### Exercise 2: LaTeX Report
+- Same content as the Word report
+- Created using LaTeX
+- Includes multiple pages, tables, and images
+- Overleaf project link is provided in a text file
+
+### Exercise 3: PowerPoint Presentation
+- Presentation summarizing the Word report
+- Covers the main concepts of TIC and related technologies
+
+### Exercise 4: HTML/CSS
+- A simple website containing the main parts of the report
+- Same content as the Word report
+
+### Exercise 5: Git/GitHub
+- All project files are hosted in **one public GitHub repository**
+- Each group member contributed by pushing their own files
+- A notepad file contains the link to the Overleaf LaTeX project
+
+### Exercise 6: Excel
+- Data processing task:
+  - Column B split into:
+    - Column B: Faculty
+    - Column C: University
+
